@@ -2,6 +2,11 @@
 
 Here you will find all the materials I have created for my teaching assignments. I don't generally correct notes after the semester is over, so you will likely find typos/thinkos, but I hope they can still be useful!
 
+1. [PhD Micro I](#phd-micro-i)
+2. [Intermediate Micro](#intermediate-micro)
+3. [Advanced Micro](#advanced-micro)
+3. [Labor Economics](#labor-economics)
+
 
 ______
 
@@ -83,8 +88,38 @@ ______
 
 In summer 2019, I taught an undergraduate Labor Economics course. I designed the course syllabus and created all the materials, including slides and assignments, myself. The aim of the course was to have students engage with economics research. The course was run in a seminar style, with a mix of lectures, student presentations, and discussions on assigned papers.
 
-#### [Syllabus]() and [Course Page](https://courseworks2.columbia.edu/courses/80827)
+#### [Syllabus](https://motazac.github.io/teaching.github.io/Labor%20Economics/00%20-%20Syllabus.pdf) and [Course Page](https://courseworks2.columbia.edu/courses/80827)
 
 #### Slides
+##### Part 1: Fundamentals
+- [1 - Intro to Theory](https://motazac.github.io/teaching.github.io/Labor%20Economics/01%20-%20Intro%20to%20Theory.pdf)
+- [2.1 - Intro to Empirics](https://motazac.github.io/teaching.github.io/Labor%20Economics/02.1%20-%20Intro%20to%20Empirics.pdf)
+- [2.2 - Causal Inference](https://motazac.github.io/teaching.github.io/Labor%20Economics/02.2%20-%20Causal%20Inference.pdf)
+
+##### Part 2: Mobility and Opportunity
+- [3.1 - Intergenerational Mobility Parents](https://motazac.github.io/teaching.github.io/Labor%20Economics/03.1%20-%20IGM%20Parents.pdf)
+- [3.2 - Intergenerational Mobility Neighborhoods](https://motazac.github.io/teaching.github.io/Labor%20Economics/03.2%20-%20IGM%20Neighborhoods.pdf)
+- [4.1 - Colleges Mobility](https://motazac.github.io/teaching.github.io/Labor%20Economics/04.1%20-%20Colleges%20Mobility.pdf)
+- [4.2 - Signaling](https://motazac.github.io/teaching.github.io/Labor%20Economics/04.2%20-%20Signaling.pdf)
+- [5.1 - Welfare](https://motazac.github.io/teaching.github.io/Labor%20Economics/05.1%20-%20Welfare.pdf)
+- [5.2 - Minimum Wage](https://motazac.github.io/teaching.github.io/Labor%20Economics/05.2%20-%20Minimum%20Wage.pdf)
+
+##### Part 3: Imperfect Markets
+- [6 - Monoposony](https://motazac.github.io/teaching.github.io/Labor%20Economics/06%20-%20Monoposony.pdf)
+- [7 - Unions](https://motazac.github.io/teaching.github.io/Labor%20Economics/07%20-%20Unions.pdf)
+- [8.1 - Discrimination Evidence](https://motazac.github.io/teaching.github.io/Labor%20Economics/08.1%20-%20Discrimination%20Evidence.pdf)
+- [8.2 - Discrimination Policies](https://motazac.github.io/teaching.github.io/Labor%20Economics/08.2%20-%20Discrimination%20Policies.pdf)
+
+##### Part 4: The Changing Market
+- [9 - Migration](https://motazac.github.io/teaching.github.io/Labor%20Economics/09%20-%20Migration.pdf)
+- [10 - Wage Inequality](https://motazac.github.io/teaching.github.io/Labor%20Economics/10%20-%20Wage%20Inequality.pdf)
+
+##### Part 5: Other Topics
+- [11 - Class Choice](https://motazac.github.io/teaching.github.io/Labor%20Economics/11%20-%20Class%20Choice.pdf) (I covered papers on topics that each person in the class was interested in)
+- [12 - Critiquing Empirics](https://motazac.github.io/teaching.github.io/Labor%20Economics/12%20-%20Empirics.pdf)
+
 
 #### Assessments
+- [Problem Set](https://motazac.github.io/teaching.github.io/Labor%20Economics/Problem%20Set.pdf) + [Data](https://motazac.github.io/teaching.github.io/Labor%20Economics/Data.xlsx)
+- [Policy Memo](https://motazac.github.io/teaching.github.io/Labor%20Economics/Policy%20Memo.pdf)
+- [Final Exam](https://motazac.github.io/teaching.github.io/Labor%20Economics/Exam.pdf)

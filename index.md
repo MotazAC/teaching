@@ -22,7 +22,8 @@ These notes are from the first semester of the PhD Micro sequence at Columbia. I
 <li><a href="https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/PhD%20Micro%20Notes.pdf">Download <strong>Full Notes</strong></a></li>
 </ul>
 
-<button name="button" onclick="https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/PhD%20Micro%20Notes.pdf">Download <strong>Full Notes</strong></button>
+<a href="https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/PhD%20Micro%20Notes.pdf" class="button">Download <strong>Full Notes</strong></a>
+
 
 #### Part 1: Consumer Theory
 - [1.1 - Intro to Consumer Theory](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/1.1%20-%20Intro%20to%20Consumer%20Theory.pdf)

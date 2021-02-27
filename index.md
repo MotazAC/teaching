@@ -92,7 +92,7 @@ ______
 
 In summer 2019, I taught an undergraduate Labor Economics course. I designed the course syllabus and created all the materials, including slides and assignments, myself. My aim in the course was to have students seriousy engage with economics research. The course was run in a seminar style, with a mix of lectures, student presentations, and discussions on assigned papers.
 
-#### [Syllabus](https://motazac.github.io/teaching.github.io/Labor%20Economics/00%20-%20Syllabus.pdf) and [Course Page](https://courseworks2.columbia.edu/courses/80827)
+#### [Syllabus](https://motazac.github.io/teaching.github.io/Labor%20Economics/Syllabus.pdf) and [Course Page](https://courseworks2.columbia.edu/courses/80827)
 
 #### Slides
 ***Part 1: Fundamentals***

@@ -1,27 +1,31 @@
 ## Welcome to Motaz's Teaching Page
 
-Here you will find all the materials I have created for my teaching assignments. I don't generally correct notes after the semester is over, so you will likely find typos/thinkos, but I hope they can still be useful!
+Here you will find all the materials I have created for my teaching assignments.
 
 1. [PhD Micro I](#phd-micro-i)
 2. [Intermediate Micro](#intermediate-micro)
 3. [Advanced Micro](#advanced-micro)
 3. [Labor Economics](#labor-economics)
 
+I generally don't correct notes after the semester is over, so you will likely find typos/thinkos, but I hope they can still be useful! Please [contact me](mailto:mra2165@columbia.edu) if you find errors and I will correct them the next time I use these notes.
+
+Please do not use any of the materials below without attribution.
+
 
 ______
 
 ## PhD Micro I
 
-These notes are from the fall semester of PhD Micro. I created them as the TA for Professor Chiappori (Part 1) and Professor Salanié (Part 2) in Fall 2017.
+These notes are from the first semester of the PhD Micro sequence at Columbia. I created them as the TA for Professor Chiappori (Part 1) and Professor Salanié (Part 2) in Fall 2017.
 
-#### Part 1
+#### Part 1: Consumer Theory
 - [1.1 - Intro to Consumer Theory](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/1.1%20-%20Intro%20to%20Consumer%20Theory.pdf)
 - [1.2 - More on Consumer Theory](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/1.2%20-%20More%20on%20Consumer%20Theory.pdf)
 - [1.3 - Producer Theory](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/1.3%20-%20Producer%20Theory.pdf)
 - [1.4 - Expected Utility](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/1.4%20-%20Expected%20Utility.pdf)
 - [1.5 - Risk](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/1.5%20-%20Risk.pdf)
 
-#### Part 2
+#### Part 2: General Equilibrium
 - [2.1 - Intro to GE](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/2.1%20-%20Intro%20to%20GE.pdf)
 - [2.2 - GE under Uncertainty](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/2.2%20-%20GE%20under%20Uncertainty.pdf)
 - [2.3 - Market Failures](https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/2.3%20-%20Market%20Failures.pdf)
@@ -31,7 +35,7 @@ ______
 
 ## Intermediate Micro
 
-I have taught Intermediate Micro a number of times. I created these notes in Fall 2018 when TAing for Professor Ingmar Nyman, based partially on hand-written notes from Spring 2018. I partially re-used these notes in Spring 2020, with some additional material created for exam reviews.
+I have taught Intermediate Micro a number of times. I created these notes in Fall 2018 while TA'ing for Professor Ingmar Nyman, based partially on hand-written notes created in Spring 2018. I re-used these notes in Spring 2020, with some additional material created for exam reviews.
 
 #### Recitations
 - [1 - Math Review](https://motazac.github.io/teaching.github.io/Intermediate%20Micro/Recitation%2001.pdf)
@@ -61,7 +65,7 @@ ______
 
 ## Advanced Micro
 
-I TAed Advanced Micro for Professor Susan Elmes in Spring 2019. This is a course taken by advanced undergraduates as well as some masters students in other programs. The purpose of the course is to give undergraduates experience at graduate level microeconomics. As the TA, my role in the first half of the class was to provide recitations covering the mathematical tools they would need. In the second half of the course, my recitations reviewed lecture materials and showed worked examples.
+I was the TA for Professor Susan Elmes' Advanced Micro class in Spring 2019. This is a course taken by advanced undergraduates as well as some masters students in other programs. The purpose of the course is to give undergraduates an introduction to graduate level microeconomics. As the TA, my role in the first half of the class was to provide recitations covering the mathematical tools they would need. In the second half of the course, my recitations reviewed lecture materials and showed worked examples.
 
 #### First Half: Math Recitations
 - [1 - Sets and Sequences](https://motazac.github.io/teaching.github.io/Advanced%20Micro/Recitation%2001.pdf)
@@ -86,7 +90,7 @@ ______
 
 ## Labor Economics
 
-In summer 2019, I taught an undergraduate Labor Economics course. I designed the course syllabus and created all the materials, including slides and assignments, myself. The aim of the course was to have students engage with economics research. The course was run in a seminar style, with a mix of lectures, student presentations, and discussions on assigned papers.
+In summer 2019, I taught an undergraduate Labor Economics course. I designed the course syllabus and created all the materials, including slides and assignments, myself. My aim in the course was to have students seriousy engage with economics research. The course was run in a seminar style, with a mix of lectures, student presentations, and discussions on assigned papers.
 
 #### [Syllabus](https://motazac.github.io/teaching.github.io/Labor%20Economics/00%20-%20Syllabus.pdf) and [Course Page](https://courseworks2.columbia.edu/courses/80827)
 

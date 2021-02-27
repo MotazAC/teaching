@@ -110,7 +110,7 @@ In summer 2019, I taught an undergraduate Labor Economics course. I designed the
 ***Part 2: Mobility and Opportunity***
 - [3.1 - Intergenerational Mobility Parents](https://motazac.github.io/teaching.github.io/Labor%20Economics/03.1%20-%20IGM%20Parents.pdf)
 - [3.2 - Intergenerational Mobility Neighborhoods](https://motazac.github.io/teaching.github.io/Labor%20Economics/03.2%20-%20IGM%20Neighborhoods.pdf)
-- [4.1 - Colleges Mobility](https://motazac.github.io/teaching.github.io/Labor%20Economics/04.1%20-%20Colleges%20Mobility.pdf)
+- [4.1 - Colleges and Mobility](https://motazac.github.io/teaching.github.io/Labor%20Economics/04.1%20-%20Colleges%20Mobility.pdf)
 - [4.2 - Signaling](https://motazac.github.io/teaching.github.io/Labor%20Economics/04.2%20-%20Signaling.pdf)
 - [5.1 - Welfare](https://motazac.github.io/teaching.github.io/Labor%20Economics/05.1%20-%20Welfare.pdf)
 - [5.2 - Minimum Wage](https://motazac.github.io/teaching.github.io/Labor%20Economics/05.2%20-%20Minimum%20Wage.pdf)
@@ -134,3 +134,10 @@ In summer 2019, I taught an undergraduate Labor Economics course. I designed the
 - [Problem Set](https://motazac.github.io/teaching.github.io/Labor%20Economics/Problem%20Set.pdf) + [Data](https://motazac.github.io/teaching.github.io/Labor%20Economics/Data.xlsx)
 - [Policy Memo](https://motazac.github.io/teaching.github.io/Labor%20Economics/Policy%20Memo.pdf)
 - [Final Exam](https://motazac.github.io/teaching.github.io/Labor%20Economics/Exam.pdf)
+
+#### Readings
+- [Guide to Readings](https://motazac.github.io/teaching.github.io/Labor%20Economics/Reading/Guide%20to%20Readings.pdf)
+- [3 - IGM Reading Summaries](https://motazac.github.io/teaching.github.io/Labor%20Economics/Reading/3%20-%20IGM.pdf)
+- [4 - Education Reading Summaries](https://motazac.github.io/teaching.github.io/Labor%20Economics/Reading/4%20-%20Education.pdf)
+- [5 - Poverty Reading Summaries](https://motazac.github.io/teaching.github.io/Labor%20Economics/Reading/5%20-%20Poverty.pdf)
+- [6&7 - Market Power Reading Summaries](https://motazac.github.io/teaching.github.io/Labor%20Economics/Reading/6%267%20-%20Market%20Power.pdf)

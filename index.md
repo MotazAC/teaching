@@ -11,33 +11,14 @@ I generally don't correct notes after the semester is over, so you will likely f
 
 Please do not use any of the materials below without attribution.
 
-    <style>
-      button {
-        display: inline-block;
-        background-color: #7b38d8;
-        border-radius: 10px;
-        border: 4px double #cccccc;
-        color: #eeeeee;
-        text-align: center;
-        font-size: 28px;
-        padding: 20px;
-        width: 200px;
-        -webkit-transition: all 0.5s;
-        -moz-transition: all 0.5s;
-        -o-transition: all 0.5s;
-        transition: all 0.5s;
-        cursor: pointer;
-        margin: 5px;
-      }
-    </style>
-	
+
 ______
 
 ## PhD Micro I
 
 These notes are from the first semester of the PhD Micro sequence at Columbia. I created them as the TA for Professor Chiappori (Part 1) and Professor Salanié (Part 2) in Fall 2017.
 
-<button onclick="https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/PhD%20Micro%20Notes.pdf">Download <strong>Full Notes</strong></a></button>
+<a href="https://motazac.github.io/teaching.github.io/PhD%20Micro%20I/PhD%20Micro%20Notes.pdf" class="btn btn-dark">Download <strong>Full Notes</strong></a>
 
 
 #### Part 1: Consumer Theory
@@ -58,6 +39,8 @@ ______
 ## Intermediate Micro
 
 I have taught Intermediate Micro a number of times. I created these notes in Fall 2018 while TA'ing for Professor Ingmar Nyman, based partially on hand-written notes created in Spring 2018. I re-used these notes in Spring 2020, with some additional material created for exam reviews.
+
+<a href="https://motazac.github.io/teaching.github.io/Intermediate%20Micro/Intermediate%20Micro%20Notes.pdf" class="btn btn-dark">Download <strong>Full Notes</strong></a>
 
 #### Recitations
 - [1 - Math Review](https://motazac.github.io/teaching.github.io/Intermediate%20Micro/Recitation%2001.pdf)
@@ -88,6 +71,8 @@ ______
 ## Advanced Micro
 
 I was the TA for Professor Susan Elmes' Advanced Micro class in Spring 2019. This is a course taken by advanced undergraduates as well as some masters students in other programs. The purpose of the course is to give undergraduates an introduction to graduate level microeconomics. As the TA, my role in the first half of the class was to provide recitations covering the mathematical tools they would need. In the second half of the course, my recitations reviewed lecture materials and showed worked examples.
+
+<a href="https://motazac.github.io/teaching.github.io/Advanced%20Micro/Advanced%20Micro%20Notes.pdf" class="btn btn-dark">Download <strong>Full Notes</strong></a>
 
 #### First Half: Math Recitations
 - [1 - Sets and Sequences](https://motazac.github.io/teaching.github.io/Advanced%20Micro/Recitation%2001.pdf)
